@@ -10,6 +10,7 @@ The following are images of the simulator from the UPPAAL model checker.
 ![alt text](images/simulator2.png)
 
 Some images from verifying the model:
+
 ![alt text](images/images/verify4.png)
 
 ![alt text](images/images/verify3.png)
