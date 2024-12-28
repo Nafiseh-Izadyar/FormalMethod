@@ -11,4 +11,12 @@ The following are images of the simulator from the UPPAAL model checker.
 
 Some images from verifying the model:
 
+![alt text](images/verify4.png)
+
+![alt text](images/verify3.png)
+
+![alt text](images/verify2.png)
+
+![alt text](images/verify1.png)
+
 
